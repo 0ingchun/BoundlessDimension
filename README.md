@@ -5,6 +5,7 @@
 ----
 
 ![APPlogo](https://github.com/0ingchun/dimensionality/blob/main/qxlarge-dsc-60118CD0C378DBB3EF95433B97595A56.png)
+
 讓你**輕鬆看到異次元，你懂的~**
 
 *out of Dimension*
@@ -13,11 +14,15 @@
 
 *下載*通道*1*：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/BoundlessDimension/BoundlessDimension-stable_release.apk)
 
-*下載*通道*2*：[**藍奏yun下載**](https://wws.lanzoui.com/b026i39mb)密碼:cywj
+~~*下載*通道*2*：[**藍奏yun下載**](404資源暫時關閉)密碼:cywj~~
 
 > [*App發佈頁*](https://github.com/0ingchun/dimensionality/releases)
 
 查看詳細更新日誌內容和版本
+
+----
+
+> [*使用幫助&App預覽*](https://github.com/0ingchun/dimensionality/blob/main/help.md)
 
 > *特性:*
 
